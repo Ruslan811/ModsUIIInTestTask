@@ -1,0 +1,130 @@
+Ru
+
+
+Мод: Юрский маскарад
+
+
+Динозавры, могущественные гиганты, обитали на Земле более 60 миллионов лет назад. Если бы не произошло вымирание видов, они наверняка могли бы уничтожить все существа. Вы можете проверить это с помощью мода Jurassic для Bedrock Minecraft. Внесите в блочный мир самых опасных рептилий и проверьте, насколько долго вы сможете противостоять этим монстрам.
+
+Ископаемая руда — это новый тип блоков, создаваемый везде. Создание динозавра начнется с добычи руды.
+
+Доступны различные виды ископаемых и останков.
+
+Вечная мерзлота позволяет собирать руду от недавно умерших животных, например, кости Додо или Смилодона, который также известен как саблезубый тигр.
+
+ДНК: для получения ДНК необходимо ряд элементов.
+
+Верстак, светло-серый ковер и неизвестные останки — это компоненты, используемые для отделения остатков от грязи или гравия с помощью сита.
+
+Извлечения: Чтобы извлечь ДНК из останков, вам потребуется извлекатель Крафт, состоящий из семи гладких камней, редстоуна и шприца. ДНК нужно извлечь в диск хранения, а затем улучшить этот диск до извлечения в шприц.
+
+Применяется культиватор для получения яиц спауна. Он состоит из шести гладких камней и стеклянного блока. Вы должны взять ДНК и соединить ее с яйцом динозавра. Для млекопитающих необходимо поместить ДНК в культиватор, получить новый вид шприца, взаимодействовать со свиньей и ждать.
+
+Замороженное мясо Додо происходит из вечной мерзлоты и используется как оружие, потому что оно очень прочно, можно разморозить и получить мясо.
+
+Дилофозавр наносит ущерб в размере девяти единиц, скорость волка составляет шесть блоков в длину и два блока в высоту. Для приручения используется приготовленное или сырое мясо. Можно привязать его поводком, но это трудно сделать.
+
+Велоцирапторы похожи на волки, могут приручить и контролировать косточку, спят днем и размножаются мясом.
+
+Птеранодон может летать, управляется панцирем наутилуса и является кормом для рыб.
+
+В новой версии были добавлены динозавры, броня, улучшенное здоровье и бои с мобами, удалены некоторые элементы, исправлены ошибки и много других мелких изменений и улучшений.
+
+---
+En
+
+
+Mod: Jurassic Masquerade
+
+
+Dinosaurs, mighty giants, inhabited the Earth more than 60 million years ago. If the extinction of species had not occurred, they could surely have wiped out all creatures. You can check this out with the Jurassic mod for Bedrock Minecraft. Introduce the most dangerous reptiles into the block world and test how long you can resist these monsters.
+
+Fossil ore is a new type of blocks created everywhere. Creating a dinosaur will start with mining ore.
+
+Different types of fossils and remains are available.
+
+Permafrost allows you to collect ore from recently deceased animals, such as the bones of Dodo or Smilodon, which is also known as a saber-toothed tiger.
+
+DNA: a number of items are needed to obtain DNA.
+
+A workbench, a light gray carpet, and unknown remains are the components used to separate the remains from dirt or gravel using a sieve.
+
+Extractions: To extract the DNA from the remains, you will need a Kraft extractor consisting of seven smooth stones, a redstone, and a syringe. The DNA needs to be extracted into a storage disk, and then enhance that disk before extracting it into the syringe.
+
+A cultivator is used to obtain spun eggs. It consists of six smooth stones and a glass block. You must take the DNA and combine it with the dinosaur egg. For mammals, you have to put the DNA in the cultivator, get a new kind of syringe, interact with the pig and wait.
+
+Frozen Dodo meat comes from permafrost and is used as a weapon because it is very tough, you can thaw it and get meat.
+
+The Dilophosaurus does nine damage, the wolf's speed is six blocks long and two blocks high. Cooked or raw meat is used for taming. It is possible to tether it with a leash, but this is difficult to do.
+
+Velociraptors are similar to wolves, can tame and control a bone, sleep during the day and reproduce with meat.
+
+Pteranodon can fly, are controlled by a nautilus shell and are food for fish.
+
+The new version has added dinosaurs, armor, improved health and mob fights, removed some items, fixed bugs and many other minor changes and improvements.
+
+---
+Es
+
+
+Mod: Mascarada Jurásica
+
+
+Los dinosaurios, poderosos gigantes, vivieron en la Tierra hace más de 60 millones de años. Si no se hubiera producido la extinción de las especies, seguramente habrían acabado con todas las criaturas. Puedes comprobarlo con el mod Jurásico para Bedrock Minecraft. Introduce los reptiles más peligrosos en el mundo de bloques y pon a prueba cuánto tiempo puedes resistir a estos monstruos.
+
+El mineral fósil es un nuevo tipo de bloques que se crea en todas partes. La creación de un dinosaurio se iniciará con la minería de mineral.
+
+Diferentes tipos de fósiles y restos están disponibles.
+
+Permafrost te permite recoger mineral de animales fallecidos recientemente, como los huesos de Dodo o Smilodon, que también se conoce como tigre dientes de sable.
+
+ADN: se necesitan varios objetos para obtener ADN.
+
+Un banco de trabajo, una alfombra gris claro y restos desconocidos son los componentes que se utilizan para separar los restos de la tierra o la grava mediante un tamiz.
+
+Extracciones: para extraer el ADN de los restos se necesita un extractor Kraft compuesto por siete piedras lisas, una piedra roja y una jeringuilla. Es necesario extraer el ADN en un disco de almacenamiento y, a continuación, realzar este disco antes de extraerlo en la jeringa.
+
+Para obtener huevos hilados se utiliza un cultivador. Consta de seis piedras lisas y un bloque de vidrio. Hay que tomar el ADN y combinarlo con el huevo de dinosaurio. Para los mamíferos, tienes que poner el ADN en el cultivador, conseguir un nuevo tipo de jeringuilla, interactuar con el cerdo y esperar.
+
+La carne congelada de Dodo proviene del permafrost y se utiliza como arma porque es muy dura, puedes descongelarla y conseguir carne.
+
+El Dilophosaurus inflige nueve de daño, la velocidad del lobo es de seis manzanas de largo y dos de alto. La carne cocida o cruda sirve para domarlo. Es posible atarlo con una correa, pero es difícil hacerlo.
+
+Los velocirraptores son parecidos a los lobos, pueden domar y controlar un hueso, duermen durante el día y se reproducen con carne.
+
+Los pteranodontes pueden volar, se controlan con una concha de nautilus y son alimento para peces.
+
+La nueva versión ha añadido dinosaurios, armaduras, mejorado la salud y los combates contra mafias, eliminado algunos objetos, corregido errores y muchos otros cambios y mejoras menores.
+
+---
+Pt
+
+
+Mod: Jurassic Masquerade
+
+
+Os dinossauros, gigantes poderosos, viveram na Terra há mais de 60 milhões de anos. Se a extinção das espécies não tivesse ocorrido, eles certamente poderiam ter exterminado todas as criaturas. Você pode conferir isso com o mod Jurassic para Bedrock Minecraft. Introduza os répteis mais perigosos no mundo dos blocos e teste por quanto tempo você consegue resistir a esses monstros.
+
+O minério fóssil é um novo tipo de bloco criado em toda parte. A criação de um dinossauro começará com a mineração de minério.
+
+Há diferentes tipos de fósseis e restos mortais disponíveis.
+
+O Permafrost permite que você colete minério de animais mortos recentemente, como os ossos de Dodo ou Smilodon, também conhecido como tigre-dente-de-sabre.
+
+DNA: são necessários vários itens para obter DNA.
+
+Uma bancada de trabalho, um tapete cinza claro e restos desconhecidos são os componentes usados para separar os restos da sujeira ou do cascalho usando uma peneira.
+
+Extrações: para extrair o DNA dos restos mortais, você precisará de um extrator Kraft composto de sete pedras lisas, uma pedra vermelha e uma seringa. O DNA precisa ser extraído em um disco de armazenamento e, em seguida, aprimorar esse disco antes de extraí-lo na seringa.
+
+Um cultivador é usado para obter ovos fiados. Ele consiste em seis pedras lisas e um bloco de vidro. Você deve pegar o DNA e combiná-lo com o ovo de dinossauro. Para os mamíferos, você deve colocar o DNA no cultivador, obter um novo tipo de seringa, interagir com o porco e esperar.
+
+A carne de Dodô congelada vem do permafrost e é usada como arma porque é muito resistente, você pode descongelá-la e obter carne.
+
+O Dilophosaurus causa nove de dano, a velocidade do lobo é de seis blocos de comprimento e dois blocos de altura. A carne cozida ou crua é usada para domar. É possível amarrá-lo com uma coleira, mas isso é difícil de fazer.
+
+Os velociraptores são semelhantes aos lobos, podem domar e controlar um osso, dormir durante o dia e se reproduzir com carne.
+
+Os pteranodontes podem voar, são controlados por uma concha de náutilo e servem de alimento para os peixes.
+
+A nova versão adicionou dinossauros, armaduras, melhorou a saúde e as lutas contra multidões, removeu alguns itens, corrigiu bugs e muitas outras pequenas alterações e melhorias.
