@@ -61,25 +61,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CodeBase\Windows\WindowBase.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\LocalizationSettings.cs" />
     <Compile Include="Assets\CodeBase\States\IExitableState.cs" />
     <Compile Include="Assets\CodeBase\StaticData\WindowConfig.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\LocalizationManager.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\Constants.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\LocalizationSync.cs" />
     <Compile Include="Assets\CodeBase\Elements\DownloadBar.cs" />
     <Compile Include="Assets\CodeBase\States\BootstrapState.cs" />
     <Compile Include="Assets\CodeBase\States\LoadProgressState.cs" />
+    <Compile Include="Assets\CodeBase\Localzation\LocalizationText.cs" />
     <Compile Include="Assets\CodeBase\States\GameStateMachine.cs" />
     <Compile Include="Assets\CodeBase\Services\SaveLoad\ISaveLoadService.cs" />
     <Compile Include="Assets\CodeBase\Factories\AssetAddress.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\LocalizedDropdown.cs" />
     <Compile Include="Assets\CodeBase\States\SceneLoader.cs" />
     <Compile Include="Assets\CodeBase\Windows\ModDescriptionWindow.cs" />
     <Compile Include="Assets\CodeBase\States\IGameStateMachine.cs" />
     <Compile Include="Assets\CodeBase\Windows\PoliticWindow.cs" />
     <Compile Include="Assets\CodeBase\Elements\DownloadButton.cs" />
-    <Compile Include="Assets\CodeBase\Windows\ShopWindow.cs" />
     <Compile Include="Assets\CodeBase\Data\PlayerProgress.cs" />
     <Compile Include="Assets\CodeBase\Services\UI\WindowService.cs" />
     <Compile Include="Assets\CodeBase\Windows\ModesLookWindow.cs" />
@@ -87,36 +82,32 @@
     <Compile Include="Assets\CodeBase\Services\AllServices.cs" />
     <Compile Include="Assets\CodeBase\States\ICoroutineRunner.cs" />
     <Compile Include="Assets\CodeBase\Factories\IAssetProvider.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\Sheet.cs" />
     <Compile Include="Assets\CodeBase\States\IPayloadedState.cs" />
     <Compile Include="Assets\CodeBase\Services\StaticData\IStaticDataService.cs" />
+    <Compile Include="Assets\CodeBase\Localzation\LanguageSelectButton.cs" />
     <Compile Include="Assets\CodeBase\Services\PersistentProgress\PersistentProgressService.cs" />
-    <Compile Include="Assets\CodeBase\ClickerLogic\MoneyClicker.cs" />
-    <Compile Include="Assets\SimpleLocalization\Scripts\LocalizedText.cs" />
-    <Compile Include="Assets\CodeBase\PopUps\MoneyAddPopUp.cs" />
     <Compile Include="Assets\CodeBase\Elements\ProgressSaverButton.cs" />
     <Compile Include="Assets\CodeBase\Services\IService.cs" />
     <Compile Include="Assets\CodeBase\States\GameBootstrapper.cs" />
-    <Compile Include="Assets\CodeBase\Windows\RewardedAdItem.cs" />
     <Compile Include="Assets\CodeBase\Services\UI\IWindowService.cs" />
     <Compile Include="Assets\CodeBase\Factories\UIFactory.cs" />
-    <Compile Include="Assets\SimpleLocalization\Example.cs" />
     <Compile Include="Assets\CodeBase\Factories\IUIFactory.cs" />
     <Compile Include="Assets\CodeBase\Services\StaticData\StaticDataService.cs" />
     <Compile Include="Assets\CodeBase\PopUps\WindowMovementAnim.cs" />
     <Compile Include="Assets\CodeBase\PopUps\DownloadPopUp.cs" />
+    <Compile Include="Assets\CodeBase\Data\LanuageId.cs" />
     <Compile Include="Assets\CodeBase\Data\DataExtensions.cs" />
     <Compile Include="Assets\CodeBase\Factories\AssetProvider.cs" />
     <Compile Include="Assets\CodeBase\Windows\DownloadWindow.cs" />
     <Compile Include="Assets\CodeBase\States\IState.cs" />
     <Compile Include="Assets\CodeBase\Factories\OpenWindowButton.cs" />
-    <Compile Include="Assets\CodeBase\Windows\ClickerWindow.cs" />
     <Compile Include="Assets\CodeBase\StaticData\WindowId.cs" />
     <Compile Include="Assets\CodeBase\States\LoadLevelState.cs" />
     <Compile Include="Assets\CodeBase\StaticData\WindowStaticData.cs" />
     <Compile Include="Assets\CodeBase\Services\SaveLoad\SaveLoadService.cs" />
-    <Compile Include="Assets\CodeBase\Data\Money.cs" />
+    <Compile Include="Assets\CodeBase\Windows\TutorialWindow.cs" />
     <Compile Include="Assets\CodeBase\States\GameLoopState.cs" />
+    <Compile Include="Assets\CodeBase\Data\LanguageData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -137,7 +128,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\VisualAssets\АДДОНЫ\2\ВЕРСИИ.txt" />
-    <None Include="Assets\SimpleLocalization\Readme.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />

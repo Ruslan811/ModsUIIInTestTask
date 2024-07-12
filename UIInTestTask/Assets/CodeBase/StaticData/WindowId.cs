@@ -6,8 +6,10 @@
         Main = 1,
         Politic = 2,
         ModesLook = 3,
-        ModDescription = 4,
-        Download = 5
+        ModArkDescription = 4,
+        Download = 5,
+        ModMascaradDescription = 6,
+        Tutorial = 7
     }
 }
 

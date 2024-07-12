@@ -5,11 +5,11 @@ namespace CodeBase.Data
     [Serializable]
     public class PlayerProgress
     {
-        public Money Money;
+        public LanguageData Language;
 
         public PlayerProgress()
         {
-            Money = new Money();
+            Language = new LanguageData();
         }
     }
 }

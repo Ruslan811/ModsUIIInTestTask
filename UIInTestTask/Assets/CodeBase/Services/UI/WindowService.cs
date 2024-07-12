@@ -18,12 +18,6 @@ namespace CodeBase.Services.UI
             {
                 case WindowId.None:
                     break;
-                /*case WindowId.Clicker:
-                    _uiFactory.CreateClicker();
-                    break;
-                case WindowId.Shop:
-                    _uiFactory.CreateShop();
-                    break;*/
                 case WindowId.Main:
                     _uiFactory.CreateMain();
                     break;
@@ -33,11 +27,17 @@ namespace CodeBase.Services.UI
                 case WindowId.ModesLook:
                     _uiFactory.CreateModesLook();
                     break;
-                case WindowId.ModDescription:
+                case WindowId.ModArkDescription:
                     _uiFactory.CreateModDescriptionLook();
+                    break;
+                case WindowId.ModMascaradDescription:
+                    _uiFactory.CreateModMascaraddDescriptionLook();
                     break;
                 case WindowId.Download:
                     _uiFactory.CreateDownloadLook();
+                    break;
+                case WindowId.Tutorial:
+                    _uiFactory.CreateTutorial();
                     break;
             }
         }

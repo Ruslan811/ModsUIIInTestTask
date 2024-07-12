@@ -1,7 +1,6 @@
 ﻿using CodeBase.Data;
 using CodeBase.Services;
 using CodeBase.Services.PersistentProgress;
-using UnityEngine;
 
 namespace CodeBase.States
 {
@@ -39,11 +38,8 @@ namespace CodeBase.States
         private PlayerProgress NewProgress()
         {
             var progress = new PlayerProgress();
-            
-            progress.Money.Value = 1;
-            progress.Money.AddAmount = 1;
-            progress.Money.Level = 1;
-            progress.Money.AmountForLevelUp = 15;
+
+            progress.Language.LangugeValue = 2;
 
             return progress;
         }

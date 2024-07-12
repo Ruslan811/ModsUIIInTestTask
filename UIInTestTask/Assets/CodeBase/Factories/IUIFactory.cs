@@ -13,5 +13,7 @@ namespace CodeBase.Factories
         Task CreateUIRoot();
         void CreateDownloadLook();
         void CreateModDescriptionLook();
+        void CreateModMascaraddDescriptionLook();
+        void CreateTutorial();
     }
 }

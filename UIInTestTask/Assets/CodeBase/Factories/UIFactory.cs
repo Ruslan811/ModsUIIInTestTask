@@ -27,22 +27,6 @@ namespace CodeBase.Factories
             _windowService = windowService;
         }
 
-        /*public void CreateClicker()
-        {
-            WindowConfig config = _staticData.ForWindow(WindowId.Clicker);
-            ClickerWindow window = Object.Instantiate(config.Template, _uiRoot) as ClickerWindow;
-            window.Construct(_progressService);
-        }
-
-        public void CreateShop()
-        {
-            WindowConfig config = _staticData.ForWindow(WindowId.Shop);
-            ShopWindow window = Object.Instantiate(config.Template, _uiRoot) as ShopWindow;
-            window.Construct(_progressService);
-
-        }
-        */
-
         public void CreateMain()
         {
             WindowConfig config = _staticData.ForWindow(WindowId.Main);
@@ -58,6 +42,13 @@ namespace CodeBase.Factories
             window.Construct(_progressService);
         }
 
+        public void CreateTutorial()
+        {
+            WindowConfig config = _staticData.ForWindow(WindowId.Tutorial);
+            TutorialWindow window = Object.Instantiate(config.Template, _uiRoot) as TutorialWindow;
+            window.Construct(_progressService);
+        }
+
         public void CreateModesLook()
         {
             WindowConfig config = _staticData.ForWindow(WindowId.ModesLook);
@@ -67,7 +58,14 @@ namespace CodeBase.Factories
 
         public void CreateModDescriptionLook()
         {
-            WindowConfig config = _staticData.ForWindow(WindowId.ModDescription);
+            WindowConfig config = _staticData.ForWindow(WindowId.ModArkDescription);
+            ModDescriptionWindow window = Object.Instantiate(config.Template, _uiRoot) as ModDescriptionWindow;
+            window.Construct(_progressService);
+        }
+
+        public void CreateModMascaraddDescriptionLook()
+        {
+            WindowConfig config = _staticData.ForWindow(WindowId.ModMascaradDescription);
             ModDescriptionWindow window = Object.Instantiate(config.Template, _uiRoot) as ModDescriptionWindow;
             window.Construct(_progressService);
         }
