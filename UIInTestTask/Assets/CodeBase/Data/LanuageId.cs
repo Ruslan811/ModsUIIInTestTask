@@ -2,7 +2,7 @@
 {
     public enum LanuageId
     {
-        Russian = 1,
-        English = 2
+        Russian = 0,
+        English = 1
     }
 }

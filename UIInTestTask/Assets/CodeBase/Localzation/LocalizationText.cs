@@ -22,6 +22,6 @@ namespace CodeBase.Localization
         }
 
         private void LanguageSelect(int number) => 
-            _text.text = _textVariant[number - 1];
+            _text.text = _textVariant[number];
     }
 }

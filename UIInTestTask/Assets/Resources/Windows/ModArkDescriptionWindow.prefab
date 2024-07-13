@@ -433,6 +433,7 @@ GameObject:
   - component: {fileID: 7996149220210974145}
   - component: {fileID: 810031728315161500}
   - component: {fileID: 696370601358520635}
+  - component: {fileID: 4573992718842983534}
   m_Layer: 0
   m_Name: ModArkDescriptionWindow
   m_TagString: Untagged
@@ -513,6 +514,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79746f00608e390448d33574cf356b96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &4573992718842983534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5372852744079344090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e2686f239b2a0a4fb58bbe2d6c53294, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _startPositionCount: 1900
 --- !u!1 &7694386083283084681
 GameObject:
   m_ObjectHideFlags: 0

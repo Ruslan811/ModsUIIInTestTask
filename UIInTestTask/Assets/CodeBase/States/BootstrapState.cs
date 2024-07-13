@@ -4,6 +4,7 @@ using CodeBase.Services;
 using CodeBase.Factories;
 using CodeBase.AssetManagement;
 using CodeBase.Services.UI;
+using CodeBase.Services.Localization;
 
 namespace CodeBase.States
 {
@@ -49,6 +50,8 @@ namespace CodeBase.States
             _services.RegisterSingle<IWindowService>(new WindowService(_services.Single<IUIFactory>()));
 
             _services.RegisterSingle<ISaveLoadService>(new SaveLoadService( _services.Single<IPersistentProgressService>()));
+
+            _services.RegisterSingle<ILocalizationService>(new LocalizationService(_services.Single<ISaveLoadService>(), _services.Single<IPersistentProgressService>()));
         }
 
         private void RegisterAssetProvider()

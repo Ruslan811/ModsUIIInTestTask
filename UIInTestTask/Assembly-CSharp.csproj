@@ -78,6 +78,7 @@
     <Compile Include="Assets\CodeBase\Data\PlayerProgress.cs" />
     <Compile Include="Assets\CodeBase\Services\UI\WindowService.cs" />
     <Compile Include="Assets\CodeBase\Windows\ModesLookWindow.cs" />
+    <Compile Include="Assets\CodeBase\Localzation\ILocalizationService.cs" />
     <Compile Include="Assets\CodeBase\Windows\MainWindow.cs" />
     <Compile Include="Assets\CodeBase\Services\AllServices.cs" />
     <Compile Include="Assets\CodeBase\States\ICoroutineRunner.cs" />
@@ -86,6 +87,7 @@
     <Compile Include="Assets\CodeBase\Services\StaticData\IStaticDataService.cs" />
     <Compile Include="Assets\CodeBase\Localzation\LanguageSelectButton.cs" />
     <Compile Include="Assets\CodeBase\Services\PersistentProgress\PersistentProgressService.cs" />
+    <Compile Include="Assets\CodeBase\Localzation\LocalizationService.cs" />
     <Compile Include="Assets\CodeBase\Elements\ProgressSaverButton.cs" />
     <Compile Include="Assets\CodeBase\Services\IService.cs" />
     <Compile Include="Assets\CodeBase\States\GameBootstrapper.cs" />
